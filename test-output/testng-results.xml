@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-25T16:56:13 IST" name="Default suite" finished-at="2022-02-25T16:56:13 IST" duration-ms="155">
+    <groups>
+    </groups>
+    <test started-at="2022-02-25T16:56:13 IST" name="Default test" finished-at="2022-02-25T16:56:13 IST" duration-ms="155">
+      <class name="com.google.test.TestCalculator">
+        <test-method signature="testAddOp1As0()[pri:0, instance:com.google.test.TestCalculator@44a7bfbc]" started-at="2022-02-25T16:56:13 IST" name="testAddOp1As0" finished-at="2022-02-25T16:56:13 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddOp1As0 -->
+        <test-method signature="testAddOp1AsLessThan0()[pri:0, instance:com.google.test.TestCalculator@44a7bfbc]" started-at="2022-02-25T16:56:13 IST" name="testAddOp1AsLessThan0" finished-at="2022-02-25T16:56:13 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddOp1AsLessThan0 -->
+        <test-method signature="testAddOp2As0()[pri:0, instance:com.google.test.TestCalculator@44a7bfbc]" started-at="2022-02-25T16:56:13 IST" name="testAddOp2As0" finished-at="2022-02-25T16:56:13 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddOp2As0 -->
+        <test-method signature="testAddOp2AsLessThan0()[pri:0, instance:com.google.test.TestCalculator@44a7bfbc]" started-at="2022-02-25T16:56:13 IST" name="testAddOp2AsLessThan0" finished-at="2022-02-25T16:56:13 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddOp2AsLessThan0 -->
+        <test-method signature="testAddValidData()[pri:0, instance:com.google.test.TestCalculator@44a7bfbc]" started-at="2022-02-25T16:56:13 IST" name="testAddValidData" finished-at="2022-02-25T16:56:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddValidData -->
+      </class> <!-- com.google.test.TestCalculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
